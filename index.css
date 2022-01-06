@@ -8,7 +8,8 @@ body{
 h1{
     margin: auto;
     margin-bottom: 50px;
-    width: 60%;
+    padding: 25px;
+    width: 50%;
     color:rgb(230, 205, 63);
     text-shadow: 3px 3px rgb(0, 0, 0);
     border: 2px solid red;
