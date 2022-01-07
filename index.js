@@ -56,6 +56,7 @@ for (item of buttons) {
                 const music=new Audio("hell.mp3");
                 music.play();
                 music.loop=true;
+                music.playbackRate=1.5; 
                
             }
             
